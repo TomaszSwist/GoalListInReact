@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoalListInReact/static/css/main.41424a38.css",
+    "main.js": "/GoalListInReact/static/js/main.9961bd17.js",
+    "index.html": "/GoalListInReact/index.html",
+    "main.41424a38.css.map": "/GoalListInReact/static/css/main.41424a38.css.map",
+    "main.9961bd17.js.map": "/GoalListInReact/static/js/main.9961bd17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41424a38.css",
+    "static/js/main.9961bd17.js"
+  ]
+}
