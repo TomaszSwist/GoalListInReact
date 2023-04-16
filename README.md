@@ -2,7 +2,9 @@
 Simple React App that stores goals list.
 
 This is my first React App with logic done entirely by Me (CSS from the course).
-GitHub Pages: https://tomaszswist.github.io/GoalListInReact/
+GitHub Pages: 
+    
+    https://tomaszswist.github.io/GoalListInReact/
 
 
 The app allows the user to add a goal and delete it.
