@@ -1,28 +1,20 @@
 # GoalListInReact
-App f
+Simple React App that stores goals list.
 
-App full in React. My first React app with LOGIC made fully by my self (CSS form course).
-Simple project that is inspired by LinkTree. Personal site for TikTok, Instagram, YouTube creators.
-
-This is real word working site. My first project published somewhere other than GitHub.
-URL: https://nataliaswis.pl
-
-This site contains links to social media accounts. That helps creator to promote their work. Social media platforms limits the numbers of links which lead beyond the platform. This is why sites like LinkTree are popular.
+This is my first React App with logic done entirely by Me (CSS from the course).
+GitHub Pages: https://tomaszswist.github.io/GoalListInReact/
 
 
+The app allows the user to add a goal and delete it.
 
-index.html
+    Adding a new goal
+        Simply type your text into the input field and click the "Add Goal" button.
 
-    img
-        avatar - avatar image 100px x 100px
-
-    p
-        text__title - Title
-        text__user - Social media user name/nick
-
-    links
-        links__link - Hyperlink that leads to the social platform, recommend to use direct link to users profile in given platform
+    Deleting goals
+        Simply click on the goal and it will be deleted.
 
 
+Features:
 
-style.scss
+    You can't add an empty target.
+        When you try add an empty goal, the input field will change color to red.
